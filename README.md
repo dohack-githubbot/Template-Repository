@@ -4,6 +4,9 @@ This is a template, please fill it with your teams data. Places to fill in data 
 ## Description 
 //TODO: describe your project
 
+## Built with
+//TODO: lists the technologies you use and their purpose
+
 ## What benefit will your work bring in smart city context?
 //TODO: list benefits and tell us your motivation in working on this topic
 
@@ -16,5 +19,8 @@ This is a template, please fill it with your teams data. Places to fill in data 
 ## What's next for your project?
 //TODO: is there anything you've planned to work on after this hackathon? you've got some ideas of features to add? 
 
+## How does it look?
+//TODO: got any screenshots? post them here!
+
 ## Anything to add?
-//TODO: add additional information. Is there soemthing you couldn't mention before? Do you have some screenshots / videos / demos from your project?
+//TODO: add additional information. Is there soemthing you couldn't mention before? Do you have some videos or demos of your project?
